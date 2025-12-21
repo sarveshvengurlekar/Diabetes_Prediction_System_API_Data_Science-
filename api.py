@@ -66,7 +66,9 @@ def health():
 
             "Non-Diabetic":{
             "prediction": "0",
-            "result": "Non-Diabetic"
+            "result": "Non-Diabetic",
+
+            "Testing": "Go to /docs after URL to test API using Swagger"
             }
             }
 

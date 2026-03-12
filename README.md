@@ -23,6 +23,10 @@ A machine learning-powered REST API for predicting diabetes risk based on medica
 
 This project implements a diabetes prediction system using machine learning. The system takes various medical parameters as input and predicts whether a patient is likely to have diabetes or not. The predictions are exposed through a FastAPI REST API for easy integration with frontend applications or other services.
 
+![a](img1.png)
+![b](img2.png)
+![c](img3.png)
+
 ## ✨ Features
 
 - **Fast Predictions**: Real-time diabetes risk prediction using pre-trained ML model
